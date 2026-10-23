@@ -12,16 +12,6 @@ The platform is designed for students, professionals, freelancers, families, and
 
 ---
 
-# 🚀 Live Demo
-
-🌐 **Live Application:**
-https://finora-ai-tan.vercel.app/
-
-💻 **GitHub Repository:**
-https://github.com/sheema-sulthana/Finora-AI
-
----
-
 # ✨ Features
 
 ### 🔐 Authentication
